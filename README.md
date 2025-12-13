@@ -1,5 +1,8 @@
 # 🎮 Maquette – Agents Valorant (Flexbox)
 
+![Flexbox Valorant – Maquette](https://sebastien-devos.fr/img/codegt/flexbox-valorant.png)
+
+
 ## 📝 Textes de la maquette
 
 ### Titre / Logo
@@ -60,39 +63,26 @@
 ### Logo Valorant
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1024px-Valorant_logo_-_pink_color_version.svg.png
 
-css
-Copier le code
 
 ### Image de fond (background)
 https://www.pixground.com/wp-content/uploads/2023/08/Valorant-Agents-4K-Wallpaper-1081x608.jpg
 
-markdown
-Copier le code
 
 ### Images des agents
 - **Phoenix**  
 https://mmonster.co/media/c5/f0/b7/1715359956/val-coaching.webp
 
-markdown
-Copier le code
 
 - **Jett**  
 https://sm.ign.com/ign_fr/cover/v/valorant/valorant_67uz.jpg
 
-markdown
-Copier le code
 
 - **Sage**  
 https://public-files.gumroad.com/zoai7l30ngzm7l1u79j6t1vmlesw
 
-markdown
-Copier le code
-
 - **Omen**  
 https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
 
-yaml
-Copier le code
 
 ---
 
@@ -125,5 +115,13 @@ Copier le code
 - Couleur principale : `#4ecdc4`
 - Texte : `#d7f5f2`
 - Background listes : `#10201c`
+
+---
+
+### 🌌 Omen
+- Background carte : `#1a1a2e`
+- Couleur principale : `#7f5af0`
+- Texte : `#e0dcff`
+- Background listes : `#0f0f1a`
 
 ---

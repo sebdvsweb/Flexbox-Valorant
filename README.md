@@ -1,16 +1,21 @@
-# 🎮 Maquette – Agents Valorant (Flexbox)
+# Maquette – Agents Valorant (Flexbox)
+
+Reproduire le plus fidèlement possible la maquette ci-dessous.  
+Pas de Bootstrap, pas de ChatGPT.  
+Utilisez vos connaissances en HTML, CSS et Flexbox.  
+Optimisez au maximum votre code CSS, évitez de répétez des mêmes propriétés 4 fois !
 
 ![Flexbox Valorant – Maquette](https://sebastien-devos.fr/img/codegt/flexbox-valorant.png)
 
 
-## 📝 Textes de la maquette
+## Textes de la maquette
 
 ### Titre / Logo
 - **VALORANT** (logo officiel)
 
 ---
 
-### 🔥 Phoenix
+### Phoenix
 - **Rôle :** Duelist  
 - **Description :**  
   Duelliste offensif maîtrisant le feu et l’auto-régénération.
@@ -22,7 +27,7 @@
 
 ---
 
-### 🌪️ Jett
+### Jett
 - **Rôle :** Duelist  
 - **Description :**  
   Agent ultra mobile, rapide et insaisissable.
@@ -34,7 +39,7 @@
 
 ---
 
-### 🌿 Sage
+### Sage
 - **Rôle :** Sentinel  
 - **Description :**  
   Soutien défensif capable de soigner et contrôler le terrain.
@@ -46,7 +51,7 @@
 
 ---
 
-### 🌌 Omen
+### Omen
 - **Rôle :** Controller  
 - **Description :**  
   Contrôle la carte grâce à ses smokes et téléportations.
@@ -86,15 +91,15 @@ https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
 
 ---
 
-## 🎨 Codes couleurs
+## Codes couleurs
 
-### 🎨 Couleurs globales
+### Couleurs globales
 - Texte clair principal : `#e5e5e5`
 - Police : `Tahoma, sans-serif`
 
 ---
 
-### 🔥 Phoenix
+### Phoenix
 - Background carte : `#332218`
 - Couleur principale : `#ff9d00`
 - Texte : `#ffe7c8`
@@ -102,7 +107,7 @@ https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
 
 ---
 
-### 🌪️ Jett
+### Jett
 - Background carte : `#1a2733`
 - Couleur principale : `#ff4655`
 - Texte : `#e5e5e5`
@@ -110,7 +115,7 @@ https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
 
 ---
 
-### 🌿 Sage
+### Sage
 - Background carte : `#1e2f2a`
 - Couleur principale : `#4ecdc4`
 - Texte : `#d7f5f2`
@@ -118,7 +123,7 @@ https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
 
 ---
 
-### 🌌 Omen
+### Omen
 - Background carte : `#1a1a2e`
 - Couleur principale : `#7f5af0`
 - Texte : `#e0dcff`

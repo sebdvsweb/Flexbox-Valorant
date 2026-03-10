@@ -65,28 +65,7 @@ Optimisez au maximum votre code CSS, évitez de répétez des mêmes propriété
 
 ## 🖼️ Images utilisées
 
-### Logo Valorant
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1024px-Valorant_logo_-_pink_color_version.svg.png
-
-
-### Image de fond (background)
-https://www.pixground.com/wp-content/uploads/2023/08/Valorant-Agents-4K-Wallpaper-1081x608.jpg
-
-
-### Images des agents
-- **Phoenix**  
-https://mmonster.co/media/c5/f0/b7/1715359956/val-coaching.webp
-
-
-- **Jett**  
-https://sm.ign.com/ign_fr/cover/v/valorant/valorant_67uz.jpg
-
-
-- **Sage**  
-https://public-files.gumroad.com/zoai7l30ngzm7l1u79j6t1vmlesw
-
-- **Omen**  
-https://public-files.gumroad.com/51k3wkgobcexzx3lh2gt9i6rud9d
+Les images se trouvent dans le dossier `img/`.
 
 
 ---
